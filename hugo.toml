@@ -2,4 +2,4 @@ baseURL = 'https://y2bd.github.io/imgimg'
 languageCode = 'en-us'
 title = "it's me you know"
 theme = 'gallery'
-timeout = 150s
+timeout = 150
