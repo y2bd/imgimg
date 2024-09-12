@@ -1,5 +1,6 @@
 ---
 description: We try to visit Thailand during the summer to see my Mom's side of the family. Harder to do as my siblings get older but we managed to go this year (and for my sister, the first time in eight years!). I took waaaaaay more than twenty photos, but the majority are of family, so here are some that aren't (except for one that is).
+date: 2024-07-10
 featured_image: 20240717-09.jpg
 sort_by: Name # Exif.Date
 sort_order: asc

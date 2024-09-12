@@ -1,5 +1,6 @@
 ---
 description: 
+date: 2023-11-28
 sort_by: Name # Exif.Date
 sort_order: asc
 title: Slightly North

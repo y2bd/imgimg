@@ -1,5 +1,6 @@
 ---
 description: When I visit my parents in San Francisco, I usually make time to walk around Lake Merced, up Fort Funston, and then down to Ocean Beach.
+date: 2024-01-01
 sort_by: Name # Exif.Date
 sort_order: asc
 title: Sandy Cliffs
