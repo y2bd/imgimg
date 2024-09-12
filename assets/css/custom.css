@@ -1,0 +1,13 @@
+main hgroup p {
+    text-align: left;
+    text-wrap: pretty;
+    margin-right: -16px;
+}
+
+header a.btn:not(.btn-square) {
+    visibility: hidden;
+}
+
+header ul {
+    visibility: hidden;
+}

@@ -5,6 +5,7 @@ sort_order: asc
 title: Sandy Cliffs
 type: gallery
 weight: 3
+tags: san-francisco
 params:
   theme: dark
 ---
