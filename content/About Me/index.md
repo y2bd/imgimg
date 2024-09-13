@@ -6,7 +6,7 @@ sort_by: Name # Exif.Date
 sort_order: asc
 title: About Me
 type: gallery
-weight: 1
+weight: 99
 params:
   theme: dark
 ---
