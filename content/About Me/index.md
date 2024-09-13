@@ -1,0 +1,14 @@
+---
+description: Hello! I’m a he/him currently living in Seattle. Photography and music have been my main hobbies over the last fifteen years and counting, and here is where you can see the photography. Besides stray photos, I also co-run a monthly photo zine, <em>Easy Rondo</em>.<p>If you need to reach me for some reason, you can find me via <ul><li>Email <code>contact at sentimental dot blue</code> (blue! blue! not pics! blue!)</li><li> Bluesky <a href="https://bsky.app/profile/iimmyykk.bsky.social”>@iimmyykk.bsky.social</a></li></ul>
+date: 2020-01-01
+featured_image: header.jpg
+sort_by: Name # Exif.Date
+sort_order: asc
+title: About Me
+type: gallery
+weight: 1
+params:
+  theme: dark
+---
+
+<sub>Can you see this? I'm not sure if I can.</sub>
