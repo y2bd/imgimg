@@ -1,5 +1,10 @@
 main hgroup {
-  align-items: left;
+  align-items: start;
+}
+
+main hgroup h1 {
+  // lol
+  align-self: center;
 }
 
 main hgroup p,
