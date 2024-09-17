@@ -3,3 +3,6 @@ languageCode = 'en-us'
 title = "it's me you know"
 theme = 'gallery'
 timeout = 150
+
+[markup.goldmark.renderer]
+unsafe = true
