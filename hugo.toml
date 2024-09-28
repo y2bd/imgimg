@@ -3,6 +3,24 @@ languageCode = 'en-us'
 title = "it's me you know"
 theme = 'gallery'
 timeout = 150
+copyright = '© 2024 Jason Lo'
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[outputFormats]
+  [outputFormats.photos]
+    mediatype = "application/rss+xml"
+    rel = "alternate"
+    baseName = "photos"
+    isHTML = false
+    IsPlainText = false
+    noUgly = true
+
+[outputs]
+  home = ['html', 'rss', 'photos']
+
+[params]
+  [params.author]
+    email = 'contact@sentimental.blue'
+    name = 'Jason Lo'
