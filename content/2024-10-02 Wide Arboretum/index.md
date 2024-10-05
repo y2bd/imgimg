@@ -8,7 +8,7 @@ featured_id: n33qwlimaagfiblpergn
 title: Evening in the Arboretum
 type: remote
 weight: 3
-tags: seattle, panasonic-s5-ii
+tags: ['seattle', 'panasonic-s5ii']
 ---
 
 I went out this evening for a few reasons:

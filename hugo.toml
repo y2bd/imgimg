@@ -21,6 +21,21 @@ unsafe = true
   home = ['html', 'rss', 'photos']
 
 [params]
+  dateFormat = "January 02, 2006"
   [params.author]
     email = 'contact@sentimental.blue'
     name = 'Jason Lo'
+
+[menus]
+  [[menus.footer]]
+    name = 'About Me/Contact'
+    url = '/about-me'
+    weight = 100
+  [[menus.footer]]
+    name = 'Link RSS'
+    url = '/index.xml'
+    weight = 100
+  [[menus.footer]]
+    name = 'Full Image RSS'
+    url = '/photos.xml'
+    weight = 100

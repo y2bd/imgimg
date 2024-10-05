@@ -6,8 +6,8 @@ sort_by: Name # Exif.Date
 sort_order: asc
 title: Pentax 17 Gauntlet
 type: gallery
-weight: 3
-private: true
+weight: 22
+tags: pentax-17
 params:
   theme: dark
 ---

@@ -6,6 +6,7 @@ sort_by: Name # Exif.Date
 sort_order: asc
 title: Discovery Park 2024
 type: gallery
+tags: ['seattle', 'pentax-17', 'konica-ar-tc']
 weight: 3
 params:
   theme: dark

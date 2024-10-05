@@ -8,5 +8,5 @@ featured_id: odshl9acoed80vzbjnjy
 title: Assorted Pentax Snaps
 type: remote
 weight: 3
-tags: los-angeles, san-francisco, pentax-17
+tags: ['los-angeles', 'san-francisco', 'pentax-17']
 ---
